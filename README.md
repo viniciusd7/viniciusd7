@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vinícius Diniz!
 
-💻 Estudante de **Engenharia de Software (6º período)**  
+💻 Estudante de **Engenharia de Software (6º período) Pela Una Contagem**  
 🔐 Experiência em **Cibersegurança**  
 🚀 Focado em me tornar **Desenvolvedor Fullstack**  
 ✨ Apaixonado por tecnologia, segurança digital e construção de soluções inovadoras.  
