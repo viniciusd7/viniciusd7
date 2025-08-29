@@ -10,7 +10,7 @@
 ## 🧑‍💻 Sobre mim
 - 🎓 Estudante dedicado de Engenharia de Software  
 - 🛡️ Experiência em práticas e desafios de Cibersegurança  
-- 🌐 Estudando **Java, JavaScript, Node.js, React e Spring Boot**  
+- 🌐 Estudando **Java, JavaScript, python e Spring Boot**  
 - 📚 Evoluindo diariamente através de projetos práticos  
 - 🤝 Aberto a colaborações e novos aprendizados  
 
