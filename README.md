@@ -2,23 +2,23 @@
 
 💻 **Desenvolvedor Full Stack**  
 🎓 Estudante de Engenharia de Software (7º período)  
-🔐 Experiência em Cibersegurança  
-⚙️ Especialista em processos de automação e integrações  
+🔐 Experiência prática em Cibersegurança  
+⚙️ Atuação com processos de automação e integrações  
 🚀 Foco em Backend com Java + Spring Boot e aplicações modernas com Next.js  
 
-✨ Construindo soluções escaláveis, seguras e orientadas a resultado  
+✨ Construindo soluções escaláveis, seguras e orientadas a resultado.
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Graduando em Engenharia de Software  
-- 🛡️ Experiência prática com segurança digital e análise de vulnerabilidades  
+- 🛡️ Experiência com segurança digital e análise de vulnerabilidades  
 - ⚙️ Desenvolvimento de APIs REST com Java e Spring Boot  
-- 🌐 Construção de aplicações web modernas com Next.js e Node.js  
-- 🔄 Desenvolvimento de processos de automação com **n8n**, **Notion**, Webhooks e integrações entre APIs  
-- 📊 Criação de fluxos automatizados para otimização de processos internos  
-- 📚 Evolução contínua através de projetos práticos  
+- 🌐 Construção de aplicações modernas com Next.js e Node.js  
+- 🔄 Criação de processos de automação utilizando **n8n**, **Notion**, Webhooks e integrações entre APIs  
+- 📊 Desenvolvimento de fluxos automatizados para otimização de processos internos  
+- 📚 Evolução contínua através de projetos práticos e desafios técnicos  
 - 🤝 Aberto a oportunidades como Desenvolvedor Full Stack  
 
 ---
@@ -49,11 +49,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&v=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&theme=radical&langs_count=8&hide_border=true&v=3)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=viniciusd7&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=viniciusd7&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusd7&theme=radical)
 
 ---
 
