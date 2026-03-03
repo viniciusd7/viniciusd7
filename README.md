@@ -36,11 +36,6 @@ Atuação com:
 
 ---
 
-## 📊 Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=donut&theme=radical&hide_border=true&count_private=true&langs_count=8&cache_seconds=86400)
-
----
 
 ## 📈 Contribuições
 
