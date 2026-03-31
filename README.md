@@ -1,12 +1,3 @@
-<div align="center">
-
-<!-- Header Banner -->
-<a href="https://github.com/viniciusd7">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusd7&repo=crehub&theme=react&hide_border=true" alt="CreHub" />
-</a>
-
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusd7&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
@@ -19,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro de Software Full Stack com **8+ anos de experiência em TI**, focado em construir **sistemas escaláveis**, **automações inteligentes** .
+Engenheiro de Software Full Stack com **8+ anos de experiência em TI**, focado em construir **sistemas escaláveis**, **automações inteligentes** e **soluções com ROI comprovado**.
 
 ```typescript
 interface ViniciusDiniz {
@@ -49,19 +40,10 @@ interface ViniciusDiniz {
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=GitHub+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-</div>
-
----
-
 ## 🎯 Projetos Destacados
 
-### 🏆 [CreHub](https://github.com/viniciusd7/crehub) - *Plataforma para Criadores de Conteúdo*
-**crehub.app - SaaS completo para gestão de conteúdo e monetização**
+### 🏆 [CreHub](https://crehub.app) - *Plataforma para Criadores de Conteúdo*
+**SaaS completo para gestão de conteúdo e monetização**
 
 ```yaml
 Stack:
@@ -147,14 +129,6 @@ Resultados:
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusd7&theme=react&hide_border=true&background=0d1117&stroke=00d9ff&fire=00d9ff&ring=00d9ff" alt="GitHub Streak"/>
-</div>
 
 ---
 
