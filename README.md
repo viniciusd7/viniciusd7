@@ -124,30 +124,10 @@ const viniciusDiniz = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=transparent&bg_color=0d0d0d&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&theme=transparent&bg_color=0d0d0d&title_color=00d9ff&text_color=ffffff&border_color=ffffff&hide_border=false&langs_count=8" />
-
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusd7&theme=transparent&background=0d0d0d&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=aaaaaa&border=ffffff" />
 </div>
 
----
-
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusd7&bg_color=000000&color=ffffff&line=ffffff&point=00d9ff&area=false&hide_border=false&border_color=ffffff&title_color=00d9ff" />
-</div>
-
----
 
 ## 🌐 Contato
 
