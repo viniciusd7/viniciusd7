@@ -123,12 +123,6 @@ const viniciusDiniz = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusd7&theme=transparent&background=0d0d0d&stroke=ffffff&ring=00d9ff&fire=00d9ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=aaaaaa&border=ffffff" />
-</div>
-
-
 ## 🌐 Contato
 
 <div align="center">
