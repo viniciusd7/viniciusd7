@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Header Banner com SVG animado -->
+<!-- Header Banner -->
 <a href="https://github.com/viniciusd7">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?theme=codeoverflow&title=%F0%9F%9A%80+Tech+Stack&lineCount=2&pageSize=4&lines=java,typescript,next.js,spring%20boot,postgresql,docker,node.js,react,git&width=1000" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=viniciusd7&repo=crehub&theme=react&hide_border=true" alt="CreHub" />
 </a>
 
 </div>
@@ -52,16 +52,16 @@ interface ViniciusDiniz {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=codeoverflow&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=GitHub+Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&langs_count=8&theme=codeoverflow&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusd7&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&custom_title=GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusd7&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </div>
 
 ---
 
 ## 🎯 Projetos Destacados
 
-### 🏆 [Vynka Club](https://github.com/viniciusd7/vynka-club) - *Marketplace para Criadores de Conteúdo*
-**Plataforma SaaS completa para gestão de conteúdo e monetização**
+### 🏆 [CreHub](https://github.com/viniciusd7/crehub) - *Plataforma para Criadores de Conteúdo*
+**crehub.app - SaaS completo para gestão de conteúdo e monetização**
 
 ```yaml
 Stack:
@@ -70,10 +70,10 @@ Stack:
   Infra: Docker, AWS EC2, Nginx
 
 Resultados:
-  ✅ 500+ criadores cadastrados
-  ✅ 99.9% uptime em produção
-  ✅ Redução de 80% em processos manuais
-  ✅ Arquitetura escalável para 10k+ usuários simultâneos
+  ✅ Plataforma em produção ativa
+  ✅ Arquitetura escalável
+  ✅ Automação de processos manuais
+  ✅ Sistema de pagamento integrado
 ```
 
 <details>
@@ -118,35 +118,6 @@ Resultados:
 
 ---
 
-### 🔐 [Security Toolkit](https://github.com/viniciusd7/security-toolkit) - *Ferramentas de Cibersegurança*
-**Coletânea de scripts e ferramentas para pentest e hardening**
-
-```yaml
-Stack:
-  Linguagens: Python, Bash, PowerShell
-  Ferramentas: Nmap, Burp Suite, Metasploit
-  Foco: Reconnaissance, Scanning, Exploitation
-
-Recursos:
-  ✅ Scripts automatizados de reconhecimento
-  ✅ Templates para relatórios de pentest
-  ✅ Checklists de segurança OWASP Top 10
-  ✅ Hardening de servidores Linux/Windows
-```
-
-<details>
-<summary>📖 Funcionalidades</summary>
-
-- Port scanning automatizado
-- Análise de vulnerabilidades
-- Enumeração de serviços
-- Brute force ethical
-- Documentação técnica profissional
-
-</details>
-
----
-
 ## 🛠️ Stack Tecnológica
 
 ### 💜 Backend & Arquitetura
@@ -160,12 +131,10 @@ Recursos:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🐳 DevOps & Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -181,10 +150,10 @@ Recursos:
 
 ---
 
-## 📈 Contribuições & Atividades
+## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusd7&theme=codeoverflow&hide_border=true&background=0d1117&stroke=00d9ff&fire=00d9ff&ring=00d9ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusd7&theme=react&hide_border=true&background=0d1117&stroke=00d9ff&fire=00d9ff&ring=00d9ff" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -224,8 +193,6 @@ Próximos:
 
 <div align="center">
 
-**Vamos construir algo incrível juntos?**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-diniz-4b3a71324/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusdm967@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/553197396585)
@@ -245,14 +212,4 @@ Próximos:
 
 *"Não escreva código apenas para funcionar. Escreva código para ser mantido."*
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viniciusd7/viniciusd7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-<div align="center">
-  <sub>Feito com 💜 e muito café</sub>
 </div>
