@@ -10,8 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro de Software Full Stack com **8+ anos de experiência em TI**, focado em construir **sistemas escaláveis**, **automações inteligentes** e **soluções com ROI comprovado**.
-
+Engenheiro de Software Full Stack com **8+ anos de experiência em TI**, focado em construir **sistemas escaláveis**, **automações inteligentes**
 ```typescript
 interface ViniciusDiniz {
   nome: string;
