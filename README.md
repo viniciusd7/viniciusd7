@@ -154,7 +154,7 @@ Próximos:
 
 | Período | Cargo | Empresa | Tecnologias |
 |---------|-------|---------|-------------|
-| **2025 - Atual** | Full Stack Developer | Grupo Konor | Next.js, TypeScript, n8n, Java |
+| **2025 - Atual** | Full Stack Developer | Grupo Konor | Next.js, TypeScript, n8n, Java, node.js, postgresql,react,html|
 | **2025** | Técnico de Suporte de TI | Stefanini Group | Active Directory, Windows Server |
 | **2023-2024** | Analista de Infraestrutura | 3AM IT Services | Redes LAN, VPN, Firmware |
 | **2017 - Atual** | Consultor de TI Freelance | Autônomo | Hardware, Redes, Consultoria |
